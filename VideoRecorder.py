@@ -3,12 +3,6 @@
 # By Faizanscommunit
 # MIT Licensed
 
-#**** --- Social Links --- ****#
-#  Github: https://github.com/faizanscommunit
-#  Fiverr: https://fvrr.co/3iZIX0L
-#  Website: https://faizanscommunit.pythonanywhere.com/
-#  Instagram: https://www.instagram.com/faizanscommunit/
-
 #**** --- Source Code --- ****#
 import cv2
 cap = cv2.VideoCapture(0)
@@ -22,3 +16,9 @@ while True:
     cv2.imshow('Video Recorder', frame)
     if cv2.waitKey(10) == ord('q'):
         break
+        
+#**** --- Social Links --- ****#
+#  Github: https://github.com/faizanscommunit
+#  Fiverr: https://fvrr.co/3iZIX0L
+#  Website: https://faizanscommunit.pythonanywhere.com/
+#  Instagram: https://www.instagram.com/faizanscommunit/
