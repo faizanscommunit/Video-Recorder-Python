@@ -1,7 +1,6 @@
-# HTML - Login Form
-- ***Fully Responsive***
-- ***Attractive Design***
-- ***Animations***
+# Python - Video Recorder
+- ***Opencv - Python***
+- ***pip install opencv-python***
 - ***Full Source Code***
 - ***MIT Licensed***
 ------------
